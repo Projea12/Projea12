@@ -32,9 +32,10 @@
 
 ```python
 open_to = [
-    "Senior Flutter / Mobile Engineering roles",
-    "AI Engineering positions",
     "AI Robotics Engineering "
+    "Robot perception"
+    "Socially aware navigation" 
+    "Motion planning"
 ]
 ```
 ---
@@ -43,7 +44,7 @@ open_to = [
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**Built different. Shipped in production. Available for what's next.**
+**Research MSc, Fall 2027**
 
 <br/>
 
